@@ -37,8 +37,6 @@ I conduct in-depth seminars and research on SOTA models, specifically focusing o
 ### 🛠 Tech Stacks
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
   <img src="https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white">
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">

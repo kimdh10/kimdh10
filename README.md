@@ -22,14 +22,6 @@ I conduct in-depth seminars and research on SOTA models, specifically focusing o
 
 ---
 
-### 💻 Core Projects
-| Project | Tech Stack | Key Function |
-| :--- | :--- | :--- |
-| **MCP-A2A Hybrid** | Python, LangChain, RAG | [cite_start]Automated financial report generation via hybrid multi-agent system [cite: 716, 831] |
-| **Edge-YOLOv8** | Pi 5, TF-Lite, OpenCV | [cite_start]Real-time On-Device object detection, segmentation, and tracking [cite: 861, 863] |
-| **Medical Captioning** | PyTorch, BLIP-2, T5 | [cite_start]Improving X-ray captioning via Q-former and Medical-LLM [cite: 540, 630] |
-
----
 
 ### 🛠 Tech Stacks
 <p align="left">

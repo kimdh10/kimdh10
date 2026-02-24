@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Doohong Kim
+<img width="865" height="105" alt="image" src="https://github.com/user-attachments/assets/8e04f6e5-1b94-4d95-8d40-f0f24568389c" /># 👋 Hi, I'm Doohong Kim
 > **Multimodal AI Researcher | Focus: Anomaly Detection & Model Optimization**
 > Dedicated to advancing Industrial Anomaly Detection through Multimodal Denoising and Generative Prompt Engineering.
 
@@ -8,7 +8,7 @@
 | Award | Organization | Date | Description |
 | :--- | :--- | :--- | :--- |
 | **Silver Award** | ASK 2025 (KIPS) | May 2025 | Research on Pneumonia X-ray Image Captioning using BLIP-2 |
-| **Silver Award** | ASK 2025 Conference | May 2025 | Undergraduate & High School Student Paper Competition  |
+| **Excellence Award** | Korea Artificial Intelligence Conference | Sep 2025 | Research on On-premise MCP-A2A Hybrid System |
 
 ---
 

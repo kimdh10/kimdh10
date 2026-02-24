@@ -44,8 +44,8 @@ I conduct in-depth seminars and research on SOTA models, specifically focusing o
 
 ---
 ### 📫 Contact
-- [cite_start]**Email:** dh0504k@gmail.com [cite: 3]
-- [cite_start]**GitHub:** [https://github.com/kimdh10](https://github.com/kimdh10) [cite: 6]
+- **Email:** dohong1005@naver.com 
+- **GitHub:** [https://github.com/kimdh10](https://github.com/kimdh10) 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kimdh10&show_icons=true&theme=radical" />

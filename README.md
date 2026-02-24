@@ -17,9 +17,9 @@ I have published research on optimizing Large Language Models and Multimodal AI 
 
 | Category | Research Title | Technical Keypoints |
 | :--- | :--- | :--- |
-| **Edge AI** | **Optimization of Gemma3 on Raspberry Pi 5** | [cite_start]Model size reduced by **3.8x** using **QAT (int8)** and Knowledge Distillation [cite: 2233, 2284] |
-| **Multi-Agent** | **On-premise MCP-A2A Hybrid System** | [cite_start]Automated financial report generation using **Model Context Protocol** & RAG [cite: 2343, 2344] |
-| **Medical AI** | **Pneumonia X-ray Captioning via BLIP-2** | [cite_start]Improved diagnostic accuracy using **Medical-mT5** and lightweight Q-Former [cite: 2450, 2540] |
+| **Edge AI** | **Optimization of Gemma3 on Raspberry Pi 5** | Model size reduced by **3.8x** using **QAT (int8)** and Knowledge Distillation |
+| **Multi-Agent** | **On-premise MCP-A2A Hybrid System** | Automated financial report generation using **Model Context Protocol** & RAG |
+| **Medical AI** | **Pneumonia X-ray Captioning via BLIP-2** | Improved diagnostic accuracy using **Medical-mT5** and lightweight Q-Former |
 
 ---
 

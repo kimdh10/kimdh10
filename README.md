@@ -7,8 +7,8 @@
 ### 🏆 Honors & Awards
 | Award | Organization | Date | Description |
 | :--- | :--- | :--- | :--- |
-| **Silver Award** | ASK 2025 (KIPS) | May 2025 | [cite_start]Research on Pneumonia X-ray Image Captioning using BLIP-2 [cite: 168, 169] |
-| **Silver Award** | ASK 2025 Conference | May 2025 | [cite_start]Undergraduate & High School Student Paper Competition  |
+| **Silver Award** | ASK 2025 (KIPS) | May 2025 | Research on Pneumonia X-ray Image Captioning using BLIP-2 |
+| **Silver Award** | ASK 2025 Conference | May 2025 | Undergraduate & High School Student Paper Competition  |
 
 ---
 
@@ -17,8 +17,8 @@ I conduct in-depth seminars and research on SOTA models, specifically focusing o
 
 | Research Topic | Target Paper | Key Insights & Seminar Focus |
 | :--- | :--- | :--- |
-| **Industrial AD** | **M3DM-NR** (PAMI '25) | [cite_start]Analyzed 3-stage Multimodal Denoising for noisy industrial datasets  |
-| **Zero-Shot AD** | **PromptMoE** (AAAI '26) | [cite_start]Explored Visually-Guided Mixture of Prompts (VGMoP) for generalizable AD [cite: 947, 949] |
+| **Industrial AD** | **M3DM-NR** (PAMI '25) | Analyzed 3-stage Multimodal Denoising for noisy industrial datasets |
+| **Zero-Shot AD** | **PromptMoE** (AAAI '26) | Explored Visually-Guided Mixture of Prompts (VGMoP) for generalizable AD |
 
 ---
 

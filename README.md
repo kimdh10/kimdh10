@@ -1,4 +1,4 @@
-<img width="865" height="105" alt="image" src="https://github.com/user-attachments/assets/8e04f6e5-1b94-4d95-8d40-f0f24568389c" /># 👋 Hi, I'm Doohong Kim
+👋 Hi, I'm Doohong Kim
 > **Multimodal AI Researcher | Focus: Anomaly Detection & Model Optimization**
 > Dedicated to advancing Industrial Anomaly Detection through Multimodal Denoising and Generative Prompt Engineering.
 

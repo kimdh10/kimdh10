@@ -24,6 +24,8 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 |------------|-------------------------------------------------------------------------------------------------------|-------|
 | 2026-01-26 | M3DM NR RGB 3D Noisy Resistant Industrial Anomaly Detection via Multimodal Denoising             | [Link](https://www.youtube.com/watch?v=DHUv1uZXfig&list=PL3Qkr3sk7Xne-OtiPeRFCsW4J1zb0Q3wH&index=28&t=0s) |
 | 2026-02-09 | PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures             | [Link](https://www.youtube.com/watch?v=ReccEJPr8fw&list=PL3Qkr3sk7Xne-OtiPeRFCsW4J1zb0Q3wH&index=14&t=0s) |
+| 2026-03-05 | Real-IAD D3: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection             | [Link](https://youtu.be/GYHEnaLGstY?si=tt1s2wNbIhSxZuJm) |
+| 2026-03-19 | Bayesian Prompt Flow Learning for Zero Shot Anomaly Detection             | [Link](https://youtu.be/2-KBejWH42Y?si=cP_R5hpJIcaJ-duE) |
 ---
 
 

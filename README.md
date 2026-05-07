@@ -26,6 +26,9 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | 2026-02-09 | PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures             | [Link](https://www.youtube.com/watch?v=ReccEJPr8fw&list=PL3Qkr3sk7Xne-OtiPeRFCsW4J1zb0Q3wH&index=14&t=0s) |
 | 2026-03-05 | Real-IAD D3: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection             | [Link](https://youtu.be/GYHEnaLGstY?si=tt1s2wNbIhSxZuJm) |
 | 2026-03-19 | Bayesian Prompt Flow Learning for Zero Shot Anomaly Detection             | [Link](https://youtu.be/2-KBejWH42Y?si=cP_R5hpJIcaJ-duE) |
+| 2026-04-02 | Multimodal Industrial Anomaly Detection via Attention-Enhanced Memory-Guided Network            | [Link](https://youtu.be/OpqY0vaChuE?si=nSXnWZZH58ttJFgJ) |
+| 2026-05-01 | Incomplete multimodal industrial anomaly detection via cross-modal distillation            | [Link](https://youtu.be/8VFoZ-kftW0?si=HWCMAg-9_Jczi4zF) |
+| 2026-05-14 | BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection            | [Link](https://youtu.be/uz-rkdh5CkQ?si=AhyGu-SvOAiLbvB9) |
 ---
 
 

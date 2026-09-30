@@ -4,7 +4,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 
 🔬 **Research Interests:**
 - Anomaly Detection
-- Deep Learning
+- Vision Language Model
 - Multimodal AI
   
 ---
@@ -29,6 +29,9 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | 2026-04-02 | Multimodal Industrial Anomaly Detection via Attention-Enhanced Memory-Guided Network            | [Link](https://youtu.be/OpqY0vaChuE?si=nSXnWZZH58ttJFgJ) |
 | 2026-05-01 | Incomplete multimodal industrial anomaly detection via cross-modal distillation            | [Link](https://youtu.be/8VFoZ-kftW0?si=HWCMAg-9_Jczi4zF) |
 | 2026-05-14 | BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection            | [Link](https://youtu.be/uz-rkdh5CkQ?si=AhyGu-SvOAiLbvB9) |
+| 2026-05-30 | Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping            | [Link](https://youtu.be/2LROIfWJ1DI?si=UV2pwszvH-XKTKHI) |
+| 2026-07-13 | AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors            | [Link](https://youtu.be/-XormeW6AiI?si=W-IpCMJI2qgQ5jnc) |
+| 2026-09-21 | Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial            | [Link](https://youtu.be/KOZnb8Ig0qg?si=piW28ga9E609w7yo) |
 ---
 
 
